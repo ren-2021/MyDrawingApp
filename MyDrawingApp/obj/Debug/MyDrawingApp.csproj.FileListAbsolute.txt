@@ -1,0 +1,10 @@
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\bin\Debug\MyDrawingApp.exe.config
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\bin\Debug\MyDrawingApp.exe
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\bin\Debug\MyDrawingApp.pdb
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\obj\Debug\MyDrawingApp.csproj.AssemblyReference.cache
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\obj\Debug\MyDrawingApp.Form1.resources
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\obj\Debug\MyDrawingApp.Properties.Resources.resources
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\obj\Debug\MyDrawingApp.csproj.GenerateResource.cache
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\obj\Debug\MyDrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\obj\Debug\MyDrawingApp.exe
+C:\Users\Rendell\source\repos\MyDrawingApp\MyDrawingApp\obj\Debug\MyDrawingApp.pdb
